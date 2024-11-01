@@ -1,0 +1,1030 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Memphis Documents Library\n"
+"POT-Creation-Date: 2020-03-16 11:36+0500\n"
+"PO-Revision-Date: 2020-03-16 11:41+0500\n"
+"Last-Translator: Ian Howatson <ian@howatson.net>\n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inc/common.php:12
+msgid "Sorry, your nonce did not verify."
+msgstr "Pahoittelut, äitisi ei vahvistanut."
+
+#: ../inc/common.php:37
+msgid "Version"
+msgstr "Versio"
+
+#: ../inc/common.php:37
+msgid "Settings"
+msgstr "asetukset"
+
+#: ../inc/common.php:39
+msgid "Go Premium"
+msgstr "Go Premium"
+
+#: ../inc/common.php:81
+msgid "How it works?"
+msgstr "Kuinka se toimii?"
+
+#: ../inc/common.php:82
+msgid "A default page is created with title"
+msgstr "Oletussivu luodaan otsikolla"
+
+#: ../inc/common.php:82
+msgid "in"
+msgstr "sisään"
+
+#: ../inc/common.php:82
+msgid "pages"
+msgstr "sivut"
+
+#: ../inc/common.php:82
+msgid "You can create more pages with a shortcode"
+msgstr "Voit luoda lisää sivuja lyhyellä koodilla"
+
+#: ../inc/common.php:82
+msgid ""
+"Create directories, sub-directories and add documents to list them with the "
+"shortcode."
+msgstr ""
+"Luo hakemistoja, alihakemistoja ja lisää asiakirjoja luetteloidaksesi niitä "
+"lyhytkoodilla."
+
+#: ../inc/common.php:82
+msgid "That's it."
+msgstr "Se siitä."
+
+#: ../inc/functions.php:93
+msgid "Pro"
+msgstr "ammattilainen"
+
+#: ../inc/functions.php:195 ../inc/wpsis_settings.php:22
+msgid "Click here to edit"
+msgstr "Muokkaa napsauttamalla tätä"
+
+#: ../inc/functions.php:195 ../inc/wpsis_settings.php:22
+msgid "Click here to delete"
+msgstr "Poista napsauttamalla tätä"
+
+#: ../inc/functions.php:320 ../inc/functions.php:368 ../inc/functions.php:439
+msgid "Info!"
+msgstr "Tiedot!"
+
+#: ../inc/functions.php:320 ../inc/functions.php:368 ../inc/functions.php:439
+msgid "Empty Directory"
+msgstr "Tyhjä hakemisto"
+
+#: ../inc/functions.php:381
+msgid "Name"
+msgstr "Nimi"
+
+#: ../inc/functions.php:382
+msgid "Modified Date"
+msgstr "Muokattu päivämäärä"
+
+#: ../inc/functions.php:383
+msgid "Type"
+msgstr "Tyyppi"
+
+#: ../inc/functions.php:384
+msgid "Size"
+msgstr "Koko"
+
+#: ../inc/wpsis_settings.php:13
+msgid "Click here to go back"
+msgstr "Napsauta tätä palataksesi takaisin"
+
+#: ../inc/wpsis_settings.php:15
+msgid "Add Files"
+msgstr "Lisää tiedostoja"
+
+#: ../inc/wpsis_settings.php:17
+msgid "New folder"
+msgstr "Uusi kansio"
+
+#: ../inc/wpsis_settings.php:22
+msgid "Click here to rename"
+msgstr "Napsauta tätä nimetäksesi uudelleen"
+
+#, fuzzy
+#~ msgid "Allow File Types"
+#~ msgstr "Sallitut Tiedostotyypit"
+
+#~ msgid "Allowed File Types"
+#~ msgstr "Sallitut Tiedostotyypit"
+
+#~ msgid "Extension"
+#~ msgstr "Pääte"
+
+#, fuzzy
+#~ msgid "Options"
+#~ msgstr "Latausnapin Asetukset"
+
+#~ msgid "remove"
+#~ msgstr "poista"
+
+#~ msgid "add"
+#~ msgstr "lisää"
+
+#~ msgid "List of Files and Their Mime Types"
+#~ msgstr "Tiedosto- ja Mime-tyypit"
+
+#~ msgid "Restore Default File Types"
+#~ msgstr "Palauta Oletustyypit"
+
+#~ msgid "Please upload a zip file."
+#~ msgstr "Lataa ZIP-tiedosto"
+
+#~ msgid "Batch Library Upload"
+#~ msgstr "Massalataus"
+
+#~ msgid ""
+#~ "Batch Upload  is still in beta.  Be sure to backup your library before "
+#~ "running this process.  If anything should go wrong, just import the "
+#~ "backup using the\"Overwrite Saved Variables\" option, and then run the "
+#~ "\"File System Cleanup\" process to revert to the original state."
+#~ msgstr ""
+#~ "Massalataus on vielä beta. Varmista kirjasto ennen kuin käytät "
+#~ "ominaisuutta. Jos jokin menee pieleen, tuo varmistus käyttämällä "
+#~ "\"Ylikirjoita Tallennetut Muuttujat\"-optiota ja aja "
+#~ "\"Tiedostojärjestelmän Siivous\""
+
+#, fuzzy
+#~ msgid ""
+#~ "Create a zip file of all the documents you want to upload.  You may name "
+#~ "the file whatever you want.  Once you have created the file, simply "
+#~ "upload it, then use the quick select form to place the files in the "
+#~ "proper directory.  Once satisfied press the 'Complete' button to finsh "
+#~ "the process."
+#~ msgstr ""
+#~ "Luo ZIP-tiedosto kaikista siirrettävistä tiedostoista. Voit nimetä sen "
+#~ "halusi mukaan. Siirron jälkeen käytä pikavalintalomaketta siirtääksesi "
+#~ "tiedoston oikeaan hakemistoon. Kun olet tyytyväinen, paina 'Valmis'-"
+#~ "painiketta."
+
+#, fuzzy
+#~ msgid "Default Folder"
+#~ msgstr "Oletussisältö:"
+
+#~ msgid "Upload Zip File"
+#~ msgstr "Siirrä ZIP-tiedosto"
+
+#~ msgid "File Name"
+#~ msgstr "Tiedostonimi"
+
+#~ msgid "KB"
+#~ msgstr "Kt"
+
+#~ msgid "Category"
+#~ msgstr "Kategoria"
+
+#~ msgid "Complete"
+#~ msgstr "Valmis"
+
+#~ msgid "Processed File => "
+#~ msgstr "Prosessoitu Tiedosto =>"
+
+#~ msgid "Mime Type Allowed => "
+#~ msgstr "Sallitut Mime-tyypit =>"
+
+#~ msgid "File Uploaded with No Errors."
+#~ msgstr "Tiedosto Siirretty Virheittä."
+
+#~ msgid "Invalid Mime Type => "
+#~ msgstr "Väärä Mime-tyyppi =>"
+
+#~ msgid " Unable to process file."
+#~ msgstr "Tiedostoa ei voida prosessoida."
+
+#~ msgid "File Was Not Uploaded because an Error occured."
+#~ msgstr "Tiedostoa ei siirretty virheen vuoksi."
+
+#~ msgid "Cleaning up tmp folder and files"
+#~ msgstr "Puhdistetaan väliaikainen hakemisto ja tiedostot"
+
+#~ msgid "Batch Process Complete."
+#~ msgstr "Massasiirto Suoritettu"
+
+#~ msgid "The batch process has completed, below is a log of results:"
+#~ msgstr "Massasiirto suoritettu, alla loki tuloksista:"
+
+#, fuzzy
+#~ msgid "Add Main Folder"
+#~ msgstr "Lisää Pääkategoria"
+
+#~ msgid "Folder"
+#~ msgstr "Kansio"
+
+#~ msgid "Order"
+#~ msgstr "Järjestys"
+
+#~ msgid "Remove"
+#~ msgstr "Poista"
+
+#~ msgid "Add Folder"
+#~ msgstr "Lisa kanis"
+
+#, fuzzy
+#~ msgid "No folders created."
+#~ msgstr "Kategoriaa ei luotu."
+
+#~ msgid "Memphis Documents Library"
+#~ msgstr "Memphis Dokumenttikirjasto"
+
+#~ msgid "Memphis Docs"
+#~ msgstr "Memphis Docs"
+
+#, fuzzy
+#~ msgid "File Properties"
+#~ msgstr "Taustan Asetukset"
+
+#~ msgid "File Uploader"
+#~ msgstr "Tiedoston Siirtäjä"
+
+#~ msgid "File Status"
+#~ msgstr "Tiedoston Tila"
+
+#~ msgid "Public"
+#~ msgstr "Julkinen"
+
+#~ msgid "Hidden"
+#~ msgstr "Piilotettu"
+
+#~ msgid "Post Status"
+#~ msgstr "Lähetyksen Tila"
+
+#~ msgid "Published"
+#~ msgstr "Julkaistu"
+
+#~ msgid "Private"
+#~ msgstr "Yksityinen"
+
+#~ msgid "Pending Review"
+#~ msgstr "Odottavat"
+
+#~ msgid "Draft"
+#~ msgstr "Luonnos"
+
+#~ msgid "Show Social Apps"
+#~ msgstr "Näytä some-sovellukset"
+
+#~ msgid "Downloadable by Non Members"
+#~ msgstr "Ladattavissa Ei-jäsenille"
+
+#~ msgid "Description"
+#~ msgstr "Kuvaus"
+
+#, fuzzy
+#~ msgid "Please login to view this file preview."
+#~ msgstr "Kirjaudu jotta voit esikatsella."
+
+#, fuzzy
+#~ msgid "Sorry you are unauthorized to preview this file."
+#~ msgstr "Pahoittelut, sinulla ei ole oikeuksia ladata tätä tiedostoa."
+
+#, fuzzy
+#~ msgid "Memphis Documents Error"
+#~ msgstr "Memphis Dokumenttikirjasto"
+
+#~ msgid "Check this file out"
+#~ msgstr "Varaa tämä tiedosto"
+
+#~ msgid "Download it from"
+#~ msgstr "Lataa"
+
+#~ msgid "powered by Memphis Documents Library"
+#~ msgstr "moottorina Memphis Documents Library"
+
+#~ msgid "Sorry you are unauthorized to download this file."
+#~ msgstr "Pahoittelut, sinulla ei ole oikeuksia ladata tätä tiedostoa."
+
+#, fuzzy
+#~ msgid "Export Files"
+#~ msgstr ""
+#~ "Vanha kategoriarakenne löytyi, päivitettiin uuteen rakenteeseen. "
+#~ "Suositellaan uudelleen vientiä. Prosessi pääsi loppuun."
+
+#~ msgid "Export Memphis Documents Library"
+#~ msgstr "Vie Memphis Documents Library"
+
+#~ msgid "New"
+#~ msgstr "Uusi"
+
+#~ msgid "Updated"
+#~ msgstr "Päivitetty"
+
+#~ msgid "Please login<br>to download this file"
+#~ msgstr "Kirjaudu<br>ladataksesi"
+
+#~ msgid "Download"
+#~ msgstr "Lataa"
+
+#~ msgid "Rate Me!"
+#~ msgstr "Arvioi!"
+
+#~ msgid "Your Rating"
+#~ msgstr "Sinun Arviosi"
+
+#~ msgid "Downloads"
+#~ msgstr "Lataukset"
+
+#~ msgid "Author"
+#~ msgstr "Omistaja"
+
+#~ msgid "Last Updated"
+#~ msgstr "Päivitetty Viimeksi"
+
+#, fuzzy
+#~ msgid "File Options"
+#~ msgstr "Taustan Asetukset"
+
+#, fuzzy
+#~ msgid "Admin Options"
+#~ msgstr "Taustan Asetukset"
+
+#, fuzzy
+#~ msgid "File Status: "
+#~ msgstr "Tiedoston Tila"
+
+#, fuzzy
+#~ msgid "Post Status: "
+#~ msgstr "Lähetyksen Tila"
+
+#~ msgid "Filesystem Cleanup"
+#~ msgstr "Tiedostojärjestelmän Puhdistus"
+
+#~ msgid ""
+#~ "Use this functionality to run a system check to locate and remove any "
+#~ "broken files/data links inside Memphis Documents Library.<br>Be sure to "
+#~ "make a backup copy before running this check."
+#~ msgstr ""
+#~ "Käytä tarkistaaksesi ja puhdistaaksesi rikkinäiset tiedosto/tietolinkit "
+#~ "kirjastosta.<br>Tee varmistus ennen tarkitusta."
+
+#~ msgid "Run Filesystem Cleanup"
+#~ msgstr "Aja Tiedostojärjestelmän Puhdistus "
+
+#~ msgid "Filesystem Cleanup Complete"
+#~ msgstr "Tiedostojärjestelmän Puhdistus Valmis "
+
+#~ msgid ""
+#~ "Your file system has been cleaned.  Remember if you encounter any issues "
+#~ "revert back to your previous version using the import tool."
+#~ msgstr ""
+#~ "Järjestelmä on puhdistettu. Jos löydät ongelmia, voit palata vanhaan "
+#~ "versioon tuontityökalun avulla."
+
+#~ msgid "Unlinked Files"
+#~ msgstr "Linkittämättömiä Tiedostoja"
+
+#~ msgid "There are no unlinked files."
+#~ msgstr "Ei linkittämättömiä tiedostoja."
+
+#~ msgid "Unlinked Data"
+#~ msgstr "Linkittämätön Tieto"
+
+#~ msgid "Element ID"
+#~ msgstr "Elementin ID"
+
+#~ msgid "There is no unlinked data."
+#~ msgstr "Ei linkittämätöntä tietoa."
+
+#~ msgid "Run File System Cleanup Again"
+#~ msgstr "Aja Tiedostojärjestelmän Puhdistus Uudelleen"
+
+#~ msgid "Filesystem Analyzed"
+#~ msgstr "Tiedostojärjestelmä Analysoitu"
+
+#~ msgid ""
+#~ "Below is a list of files and data that look to be broken and or unused by "
+#~ "Memphis Documents Library.  The next phase of the process will try and "
+#~ "remove all this unlinked information.<br>Please make sure you have made "
+#~ "an export of the files before continuing.  If anything goes wrong just "
+#~ "import your export file to revert all changes."
+#~ msgstr ""
+#~ "Alta löytyy lista tiedostoista ja tiedosta jotka eivät näytä olevan "
+#~ "käytössä. Seuraavassa vaiheessa yritetään poistaa kaikki tuo "
+#~ "linkittämätön informaatio.<br>Olethan ottanut varmistuksen. Jos jokin "
+#~ "menee vikaan, voit palauttaa tilanteen varmistuksen avulla."
+
+#~ msgid "Cleanup The File System"
+#~ msgstr "Puhdista Tiedostojärjestelmä"
+
+#, fuzzy
+#~ msgid "Find Lost Files"
+#~ msgstr "Linkittämättömiä Tiedostoja"
+
+#, fuzzy
+#~ msgid "Save Files"
+#~ msgstr "Tiedosto"
+
+#, fuzzy
+#~ msgid "Find Lost Files Process Complete."
+#~ msgstr "Massasiirto Suoritettu"
+
+#~ msgid "Update"
+#~ msgstr "Päivitä"
+
+#~ msgid "Delete"
+#~ msgstr "Poista"
+
+#~ msgid "Versions"
+#~ msgstr "Versiot"
+
+#~ msgid "Preview"
+#~ msgstr "Esikatselu"
+
+#~ msgid "Please login to access the preview."
+#~ msgstr "Kirjaudu jotta voit esikatsella."
+
+#~ msgid "Memphis Error"
+#~ msgstr "Memphis-virhe"
+
+#~ msgid "Memphis Info"
+#~ msgstr "Memphis-info"
+
+#~ msgid "Documents Library"
+#~ msgstr "Dokumenttikirjasto"
+
+#~ msgid "Add New Document"
+#~ msgstr "Lisää Uusi Dokumentti"
+
+#~ msgid "Import"
+#~ msgstr "Tuo"
+
+#~ msgid "Export"
+#~ msgstr "Vie"
+
+#, fuzzy
+#~ msgid "Batch Upload"
+#~ msgstr "Massavienti (Beta)"
+
+#, fuzzy
+#~ msgid "File System Cleanup"
+#~ msgstr "Aja Tiedostojärjestelmän Puhdistus Uudelleen"
+
+#~ msgid "Restore To Default"
+#~ msgstr "Palauta Oletukset"
+
+#~ msgid "Short Codes"
+#~ msgstr "Lyhytkoodit"
+
+#, fuzzy
+#~ msgid "Memphis Documents Posts"
+#~ msgstr "Memphis Dokumenttikirjasto"
+
+#, fuzzy
+#~ msgid "Add New"
+#~ msgstr "Lisää Uusi Dokumentti"
+
+#, fuzzy
+#~ msgid "Add New Documents"
+#~ msgstr "Lisää Uusi Dokumentti"
+
+#, fuzzy
+#~ msgid "Edit Documents"
+#~ msgstr "Dokumentit"
+
+#, fuzzy
+#~ msgid "New Documents"
+#~ msgstr "Lisää Uusi Dokumentti"
+
+#, fuzzy
+#~ msgid "All Documents"
+#~ msgstr "Dokumentit"
+
+#, fuzzy
+#~ msgid "View Documents"
+#~ msgstr "Dokumentit"
+
+#, fuzzy
+#~ msgid "Search Documents"
+#~ msgstr "Dokumentit"
+
+#, fuzzy
+#~ msgid "No documents found in the Trash"
+#~ msgstr "Kategoriasta ei löytynyt tiedostoja."
+
+#, fuzzy
+#~ msgid "Run Updater"
+#~ msgstr "Päivitä"
+
+#, fuzzy
+#~ msgid "Import Files"
+#~ msgstr ""
+#~ "On varmin tapa tuoda. Tämä option pitää kaikki nykyiset ja tuo vain "
+#~ "uudet. \n"
+#~ "\t\t\t<br>Jos tuotava tiedosto vastaa nykyistä järjestelmässä olevaa, "
+#~ "järjestelmän tiedostoon ei kosketa,\n"
+#~ "\t\t\t<br>vaan nämä tiedostot pitää tuoda käsin."
+
+#~ msgid "There are two type of imports you can choose from."
+#~ msgstr "Voit valita kahdesta tuonnista."
+
+#, fuzzy
+#~ msgid "Keep Existing Files"
+#~ msgstr "Pidä Olemassa Olevat Muuttujat"
+
+#~ msgid ""
+#~ "Is the safest way to import.  This option keeps all your current files "
+#~ "and only imports new ones. \n"
+#~ "\t\t\t<br>If a file that is being imported matches one on the current "
+#~ "system, the one on the current system will be left untouched,\n"
+#~ "\t\t\t<br>and you will have to manually import these files."
+#~ msgstr ""
+#~ "On varmin tapa tuoda. Tämä option pitää kaikki nykyiset ja tuo vain "
+#~ "uudet. \n"
+#~ "\t\t\t<br>Jos tuotava tiedosto vastaa nykyistä järjestelmässä olevaa, "
+#~ "järjestelmän tiedostoon ei kosketa,\n"
+#~ "\t\t\t<br>vaan nämä tiedostot pitää tuoda käsin."
+
+#, fuzzy
+#~ msgid "Delete Old Files"
+#~ msgstr "Poista"
+
+#~ msgid ""
+#~ "Is a good when you have a empty documents library or you at looking to "
+#~ "refresh your current library."
+#~ msgstr ""
+#~ "On hyvä tyhjän kirjaston kanssa tai kun haluat päivittää nykyistä "
+#~ "kirjastoa."
+
+#~ msgid ""
+#~ "This method deletes all files, posted and version on the current system. "
+#~ "After the method has completed you will\n"
+#~ "\t\t\t<br>get a list of all the conflicts that have occured make note of "
+#~ "them."
+#~ msgstr ""
+#~ "Tapa poistaa kaikki tiedostot ja versiot. Saat listan konflikteista ajon "
+#~ "jälkeen, ota tiedot talteen."
+
+#~ msgid ""
+#~ "Please take great care in using this method as there is little to no "
+#~ "return."
+#~ msgstr "Varovasti, peruuttaminen vähäistä tai mahdotonta."
+
+#~ msgid "Add the Zip File"
+#~ msgstr "Lisää ZIp-tiedosto"
+
+#~ msgid "Remember to always export any valuable data before doing an import."
+#~ msgstr "Muista aina viedä ensin kaikki arvokas tieto ennen tuontia."
+
+#~ msgid "Import Memphis Documents Library"
+#~ msgstr "Tuo Memphis Documents Library"
+
+#, fuzzy
+#~ msgid ""
+#~ "Old folder structure found, updated to the new folder structure.  It is "
+#~ "recommened that you re-export you files again.  The process did finish."
+#~ msgstr ""
+#~ "Vanha kategoriarakenne löytyi, päivitettiin uuteen rakenteeseen. "
+#~ "Suositellaan uudelleen vientiä. Prosessi pääsi loppuun."
+
+#, fuzzy
+#~ msgid ""
+#~ "You are about to delete this file.  Once deleted you will lose this "
+#~ "file!\n"
+#~ "\n"
+#~ "'Cancel' to stop, 'OK' to delete."
+#~ msgstr ""
+#~ "Olet poistamassa versiota. oletko varma?\n"
+#~ "\n"
+#~ "'Peruuta' peruaksesi, 'OK' poistaaksesi."
+
+#, fuzzy
+#~ msgid ""
+#~ "You are about to delete this version.  Once deleted you will lose this "
+#~ "version of the file!\n"
+#~ "\n"
+#~ "'Cancel' to stop, 'OK' to delete."
+#~ msgstr ""
+#~ "Olet poistamassa versiota. oletko varma?\n"
+#~ "\n"
+#~ "'Peruuta' peruaksesi, 'OK' poistaaksesi."
+
+#, fuzzy
+#~ msgid ""
+#~ "You are about to delete this folder.  Any file in this folder will be "
+#~ "lost!\n"
+#~ "\n"
+#~ "'Cancel' to stop, 'OK' to delete."
+#~ msgstr ""
+#~ "Olet poistamassa kategoriaa. oletko varma? Kaikki tiedostot kategoriassa "
+#~ "poistetaan.\n"
+#~ "\n"
+#~ "'Peruuta' peruaksesi, 'OK' poistaaksesi."
+
+#~ msgid "Are you sure you want to navigate away from this page?"
+#~ msgstr "Oletko varma, että haluat navigoida pois sivulta?"
+
+#~ msgid ""
+#~ "Currently Memphis Documents Library only supports two sub categories."
+#~ msgstr ""
+#~ "Memphis Documents Library tukee tällä hetkellä vain kahta alikategoriaa."
+
+#~ msgid ""
+#~ "Are you sure you want continue.  All you files, posts and directories "
+#~ "will be delete."
+#~ msgstr ""
+#~ "Oletko varma, että haluat jatkaa...kaikki tiedostot, viestit ja "
+#~ "hakemistot poistetaan."
+
+#, fuzzy
+#~ msgid "Updating Document"
+#~ msgstr "Päivitä Dokumentti"
+
+#~ msgid "Update Document"
+#~ msgstr "Päivitä Dokumentti"
+
+#, fuzzy
+#~ msgid "Adding Document"
+#~ msgstr "Lisää Dokumentti"
+
+#~ msgid "Add Document"
+#~ msgstr "Lisää Dokumentti"
+
+#~ msgid "Current File"
+#~ msgstr "Nykyinen Tiedosto"
+
+#~ msgid ""
+#~ "Memphis Documents Library has an export file on this WordPress instance "
+#~ "it was created on "
+#~ msgstr ""
+#~ "Memphis Documents Library:llä on vientitiedosto tälle Wordpress-"
+#~ "ilmentymälle"
+
+#~ msgid ""
+#~ "Memphis Documents Library has no export file on this WordPress instance.  "
+#~ "You may want to create an export file now."
+#~ msgstr ""
+#~ "Memphis Documents Library:llä ei ole vientitiedostoa tälle Wordpress-"
+#~ "ilmentymälle. Voit haluta luoda vientitiedoston nyt."
+
+#~ msgid "This file is part of the Documents Library."
+#~ msgstr "Tiedosto on osa Dokumenttikirjastoa."
+
+#~ msgid "No file was uploaded, please try again."
+#~ msgstr "Tiedostoa ei ladattu, yritä uudestaan."
+
+#, fuzzy
+#~ msgid ""
+#~ "Sorry, this file type is not permitted for security reasons.  If you want "
+#~ "to add this file type please goto the setting page of Memphis Documents "
+#~ "Library and add it to the Allowed File Type menu."
+#~ msgstr ""
+#~ "Hups, tiedostomuoto ei ole sallittujen listalla. Ota yhteys ylläpitoon "
+#~ "saadaksesi lisätietoja.<br>Jos käytät Monisivustoa, voit lisätä "
+#~ "tiedostotyypin asetuksien kohdasta Verkon Ylläpito."
+
+#~ msgid "No categories found.  The upload process can not proceed."
+#~ msgstr "Kategorioita ei löytynyt, latausta ei voida suorittaa."
+
+#~ msgid ""
+#~ "Data was not submitted.  The submit process is out of sync, please "
+#~ "refresh your browser and try again."
+#~ msgstr ""
+#~ "Tietoa ei lähetetty. Lähetys ei ole synkronissa, päivitä selaimen näkymä."
+
+#~ msgid "File Upload Error.  Please try again."
+#~ msgstr "Tiedoston Siirtovirhe, yritä uudelleen."
+
+#~ msgid "You are already at the most recent version of this document."
+#~ msgstr "Tämä on tiedoston viimeisin versio."
+
+#, fuzzy
+#~ msgid "Ratings functionality is off."
+#~ msgstr "Arviot"
+
+#~ msgid "Restore Memphis Document Library's to Defaults"
+#~ msgstr "Palauta Memphis Document Library Oletusasetuksiin"
+
+#, fuzzy
+#~ msgid ""
+#~ "This will return Memphis Documents Library to its default install state.  "
+#~ "This means that all you files, post, and categories will be remove and "
+#~ "all setting will return to their default state. <b>Please backup your "
+#~ "files before continuing.</b>"
+#~ msgstr ""
+#~ "Tämä palauttaa kirjaston asennuksen jälkeiseen tilaan. Kaikki tieto "
+#~ "poistetaan ja asetukset palautetaan oletuksiinsa. <b>Tee varmistus ensin."
+#~ "</b>"
+
+#, fuzzy
+#~ msgid "Manage File"
+#~ msgstr "Tiedosto"
+
+#, fuzzy
+#~ msgid "Goto Post"
+#~ msgstr "Lähetyksen Tila"
+
+#, fuzzy
+#~ msgid "Manage Versions"
+#~ msgstr "Versiot"
+
+#, fuzzy
+#~ msgid "Rate"
+#~ msgstr "Arvioi!"
+
+#, fuzzy
+#~ msgid "Delete File"
+#~ msgstr "Poista"
+
+#, fuzzy
+#~ msgid "Memphis Documents Server Compatiability Check"
+#~ msgstr "Memphis Dokumenttikirjasto"
+
+#, fuzzy
+#~ msgid "Library Settings"
+#~ msgstr "Yleiset Dokumenttikirjaston Asetukset"
+
+#, fuzzy
+#~ msgid "Allowed to Upload"
+#~ msgstr "Tiedoston Siirtäjä"
+
+#, fuzzy
+#~ msgid "Document List Font Size"
+#~ msgstr "Dokumenttilistan Koko: (Sivusto)"
+
+#~ msgid "Private File Post Viewing"
+#~ msgstr "Yksityisen Tiedoston Katselu"
+
+#~ msgid "Style Settings"
+#~ msgstr "Tyyliasetukset"
+
+#~ msgid "Download Button Options"
+#~ msgstr "Latausnapin Asetukset"
+
+#~ msgid "Background Options"
+#~ msgstr "Taustan Asetukset"
+
+#~ msgid "Background Color"
+#~ msgstr "Taustaväri"
+
+#~ msgid "Background Hover Color"
+#~ msgstr "Taustan Leijuväri"
+
+#~ msgid "Text Color"
+#~ msgstr "Tekstin Väri"
+
+#~ msgid "Text Hover Color"
+#~ msgstr "Tekstin Leijuväri"
+
+#~ msgid "Download Button Preview"
+#~ msgstr "Latausnapin Esikatselu"
+
+#~ msgid "Displayed File Information"
+#~ msgstr "Tiedoston Informaatio"
+
+#~ msgid "Ratings"
+#~ msgstr "Arviot"
+
+#~ msgid "Social"
+#~ msgstr "Some"
+
+#~ msgid "Hide Things"
+#~ msgstr "Piilota Asioita"
+
+#, fuzzy
+#~ msgid "Hide Sub Folders"
+#~ msgstr "Oletussisältö:"
+
+#, fuzzy
+#~ msgid "All Posts"
+#~ msgstr "Kaikki Lähetykset (voi kestää hetken)"
+
+#~ msgid "All Files: (Non Members)"
+#~ msgstr "Kaikki Tiedostot: (Ei-jäseniltä)"
+
+#~ msgid "All Posts: (Non Members)"
+#~ msgstr "Kaikki Lähetykset: (Ei-jäseniltä)"
+
+#~ msgid "New & Updated Banner"
+#~ msgstr "Uusi & Päivitetty Mainos"
+
+#~ msgid "Show New & Updated Banner"
+#~ msgstr "Näytä Uusi & Päivitetty Mainos"
+
+#~ msgid "days - Time to Displayed"
+#~ msgstr "päivät - Näytettävä Aika"
+
+#~ msgid "Default Sort Options"
+#~ msgstr "Oletusjärjestyksen Asetukset"
+
+#~ msgid "Order Types:"
+#~ msgstr "Järjestystyypit:"
+
+#~ msgid "Number of Downloads"
+#~ msgstr "Latausmäärä"
+
+#~ msgid "Rating"
+#~ msgstr "Arvio"
+
+#~ msgid "Order Style:"
+#~ msgstr "Järjestystyylit:"
+
+#~ msgid "Sort Descending"
+#~ msgstr "Laskeva"
+
+#~ msgid "Sort Ascending"
+#~ msgstr "Nouseva"
+
+#~ msgid "Document Page Settings"
+#~ msgstr "Dokumenttisivun Asetukset"
+
+#~ msgid "Default Content:"
+#~ msgstr "Oletussisältö:"
+
+#~ msgid "Show Description"
+#~ msgstr "Näytä Kuvaus"
+
+#~ msgid "Show Preview"
+#~ msgstr "Näytä Esikatselu"
+
+#~ msgid ".htaccess File Editor"
+#~ msgstr ".htaccess-editori"
+
+#~ msgid "Roles & Permissions"
+#~ msgstr "Roolit & Oikeudet"
+
+#~ msgid "Save Changes"
+#~ msgstr "Tallenna Muutokset"
+
+#~ msgid ""
+#~ "Unable to create the directory \"mdocs\" which is needed by Memphis "
+#~ "Documents Library. Is its parent directory writable by the server?"
+#~ msgstr ""
+#~ "Hakemisto \"mdocs\" ei voida luoda, Kirjasto itse tarvitsee sitä. Ovatko "
+#~ "isäntähakemiston kirjoitusoikeudet kunnossa?"
+
+#~ msgid "Documents"
+#~ msgstr "Dokumentit"
+
+#~ msgid ""
+#~ "Unable to create the directory \"mdocs\" which is needed by Memphis "
+#~ "Documents Library. Its parent directory is not readable/writable by the "
+#~ "server?"
+#~ msgstr ""
+#~ "Hakemisto \"mdocs\" ei voida luoda, Kirjasto itse tarvitsee sitä. "
+#~ "Isäntähakemiston kirjoitusoikeudet eivät ole kunnossa?"
+
+#~ msgid ""
+#~ "Your Memphis <b>.htaccess</b> file has been updated to allow google.com "
+#~ "access to the system.   This step is necessary to allow documents to be "
+#~ "previewed."
+#~ msgstr ""
+#~ "<b>.htaccess</b>-tiedosto on päivitetty jotta Googlella on pääsy "
+#~ "järjestelmään. Tämä on välttämätöntä, jotta dokumenttien esikatselu "
+#~ "toimisi."
+
+#~ msgid ""
+#~ "Your Memphis <b>Categories</b> have been updated to handle subcategories "
+#~ "this should not effect your current file system in anyway.  If there is "
+#~ "any issues please post a comment in the support forum of this plugin.  It "
+#~ "is recommended to re-export your files again due to the new way "
+#~ "categories are structured."
+#~ msgstr ""
+#~ "<b>Kategoriat</b> on päivitetty jotta alikategoriat toimisivat. Tällä ei "
+#~ "pitäisi olla muita vaikutuksia järjestelmään. Jos näin kuitenkin on, ota "
+#~ "yhteyttä pluginin tukifoorumin kautta. On suositeltua tehdä uudelleen "
+#~ "varmistus, koska kategoriarakenne on muuttunut."
+
+#~ msgid ""
+#~ "Your Memphis <b>Categories</b> have been counted to handle subcategories "
+#~ "this should not effect your current file system in anyway.  If there is "
+#~ "any issues please post a comment in the support forum of this plugin.  It "
+#~ "is recommended to re-export your files again due to the new way "
+#~ "categories are structured."
+#~ msgstr ""
+#~ "<b>Kategoriat</b> on päivitetty jotta alikategoriat toimisivat. Tällä ei "
+#~ "pitäisi olla muita vaikutuksia järjestelmään. Jos näin kuitenkin on, ota "
+#~ "yhteyttä pluginin tukifoorumin kautta. On suositeltua tehdä uudelleen "
+#~ "varmistus, koska kategoriarakenne on muuttunut."
+
+#~ msgid ""
+#~ "Adds the default Memphis Documents Library file list to any page, post or "
+#~ "widget."
+#~ msgstr ""
+#~ "Lisää Tiedostolistan mille tahansa sivulle, artikkeliin tai widgettiin."
+
+#~ msgid "The Category Name"
+#~ msgstr "Kategorian Nimi"
+
+#, fuzzy
+#~ msgid ""
+#~ "Adds files from  a specific folder of the Memphis Documents Library on "
+#~ "any page, post or widget."
+#~ msgstr ""
+#~ "Lisää Kirjaston tiedostoja valitusta hakemistosta mille tahansa sivulle, "
+#~ "artikkeliin tai widgettiin."
+
+#~ msgid ""
+#~ "Adds a list of all files of the Memphis Documents Library on any page, "
+#~ "post or widget."
+#~ msgstr ""
+#~ "Lisää Kirjaston kaikkien tiedostojen listauksen mille tahansa sivulle, "
+#~ "artikkeliin tai widgettiin."
+
+#~ msgid "This text will show up above the documents list."
+#~ msgstr "Teksti näkyy dokumenttilistan yläpuolella."
+
+#~ msgid ""
+#~ "Adds a header to the Memphis Documents LIbrary on ay page, post or widget."
+#~ msgstr ""
+#~ "Lisää Kirjaston otsikon mille tahansa sivulle, artikkeliin tai widgettiin."
+
+#~ msgid "This page is hidden to all users accepts admins."
+#~ msgstr "Sivu on piilotettu kaikilta paitsi pääkäyttäjiltä."
+
+#, fuzzy
+#~ msgid "Last Modified"
+#~ msgstr "Muutettu"
+
+#, fuzzy
+#~ msgid "No files found in this folder."
+#~ msgstr "Kategoriasta ei löytynyt tiedostoja."
+
+#~ msgid ""
+#~ "Unable to create the directory \"mdocs\" which is needed by Memphis "
+#~ "Documents Library. Its parent directory is not writable by the server?"
+#~ msgstr ""
+#~ "Hakemisto \"mdocs\" ei voida luoda, Kirjasto itse tarvitsee sitä. "
+#~ "Isäntähakemiston kirjoitusoikeudet eivät ole kunnossa?"
+
+#~ msgid "File"
+#~ msgstr "Tiedosto"
+
+#~ msgid "Current"
+#~ msgstr "Nykyinen"
+
+#~ msgid "Update To Revision"
+#~ msgstr "Päivitä Revisioon"
+
+#~ msgid "All Files Are Hidden"
+#~ msgstr "Kaikki Tiedostot Piilotettu"
+
+#~ msgid "All Posts Are Hidden"
+#~ msgstr "Kaikki Viestit Piilotettu"
+
+#~ msgid "Overwrite Saved Variables"
+#~ msgstr "Ylikirjoita Tallennetut Muuttujat"
+
+#~ msgid "Save Categories"
+#~ msgstr "Tallenna Kategoriat"
+
+#~ msgid "Add Category"
+#~ msgstr "Lisää Kategoria"
+
+#~ msgid "File Configuration"
+#~ msgstr "Tiedoston Asetukset"
+
+#~ msgid "Edit Categories"
+#~ msgstr "Muokkaa Kategorioita"
+
+#, fuzzy
+#~ msgid "Categories"
+#~ msgstr "Kategoriaa ei luotu."
+
+#~ msgid "New Category"
+#~ msgstr "Uusi Kategoria"
+
+#~ msgid "small"
+#~ msgstr "pieni"
+
+#~ msgid "large"
+#~ msgstr "iso"
+
+#~ msgid "Document List Size: (Dashboard)"
+#~ msgstr "Dokumenttilistan Koko: (Käyttöpaneeli)"
+
+#~ msgid "All Posts (May take awhile)"
+#~ msgstr "Kaikki Lähetykset (voi kestää hetken)"
+
+#~ msgid "Visit"
+#~ msgstr "Vieraile"
+
+#~ msgid "Large"
+#~ msgstr "Iso"
+
+#~ msgid "Small"
+#~ msgstr "Pieni"
+
+#~ msgid "Descending"
+#~ msgstr "Aleneva"
+
+#~ msgid "Ascending"
+#~ msgstr "Nouseva"
+
+#~ msgid "Sort By"
+#~ msgstr "Järjestä"
+
+#~ msgid "Global Documents Library Settings"
+#~ msgstr "Yleiset Dokumenttikirjaston Asetukset"

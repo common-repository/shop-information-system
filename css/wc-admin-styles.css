@@ -1,0 +1,132 @@
+.wpsis_title_container{
+    position: relative;
+}
+
+.wpsis_title_container .wpsis_dropdown_content{
+
+    display: none;
+    position: absolute;
+    top: 30px;
+    z-index: 9999;
+    width: 100%;
+    max-height: 300px;
+    overflow: auto;
+    background: white;
+    padding: 0 0 10px 0;
+
+}
+
+.wpsis_title_container .wpsis_dropdown_content li{
+
+    padding: 10px;
+    border: 1px solid rgb(199, 199, 199);
+    cursor: pointer;
+    margin: 0 0 -1px 0;	
+
+}
+
+.wpsis_title_container .wpsis_dropdown_content li.disabled{
+
+    cursor: not-allowed;
+    opacity: 0.3;
+
+}
+
+.wpsis_title_container .wpsis_dropdown_content li.active,
+.wpsis_title_container .wpsis_dropdown_content li:not(.disabled):hover{
+
+    background-color: rgb(233, 233, 233);
+
+}
+
+.wpsis_title_container .wpsis_loading img{
+    width: 40px;
+    display: none;
+}
+.wpsis_title_container .wpsis_loading{
+    display: block;
+    text-align: center;
+
+}
+
+
+/* widgets style copy wc-admin */
+.wpsis_widgets ul.woocommerce-stats-overview__stats {
+    margin: 0;
+}
+
+.wpsis .woocommerce-stats-overview__stats .woocommerce-summary__item-container {
+    width: 50%;
+    float: left;
+}
+
+.wpsis .woocommerce-stats-overview__stats .woocommerce-summary__item {
+    background-color: #fff;
+}
+
+.wpsis .woocommerce-summary__item {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 24px;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e0e0e0;
+    border-right: 1px solid #e0e0e0;
+    line-height: 1.4em;
+    text-decoration: none;
+    color: #1e1e1e;
+}
+
+.wpsis .woocommerce-summary__item .woocommerce-summary__item-label {
+    display: block;
+    margin-bottom: 16px;
+    color: #757575;
+}
+
+.wpsis .woocommerce-summary__item .woocommerce-summary__item-data {
+    display: flex;
+    justify-content: space-between;
+}
+
+.wpsis .woocommerce-summary__item .woocommerce-summary__item-value {
+    margin-bottom: 4px;
+    font-weight: 500;
+    color: #1e1e1e;
+}
+.wpsis .woocommerce-summary__item.is-good-trend .woocommerce-summary__item-delta {
+    background-color: #4ab866;
+    color: #fff;
+}
+.wpsis .woocommerce-summary__item.is-current-trend .woocommerce-summary__item-delta {
+    background-color: #aea242;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.wpsis .woocommerce-summary__item.is-current-trend .woocommerce-summary__item-delta p{
+    margin-bottom: 0;
+}
+
+.wpsis .woocommerce-summary__item .woocommerce-summary__item-delta {
+    padding: 5px;
+    border-radius: 3px;
+    height: -webkit-min-content;
+    height: min-content;
+}
+
+.wpsis .woocommerce-summary__item.is-good-trend .woocommerce-summary__item-delta {
+    color: #fff;
+}
+
+.wpsis .wpsis_quarterly .css-1ahfdc3-Text{
+    font-size:14px;
+}
+
+.wpsis a.woocommerce-summary__item:focus,
+.wpsis a.woocommerce-summary__item:hover,
+.wpsis a.woocommerce-summary__item:active{
+    text-decoration: none;
+}
+span.wpsis_current {
+	cursor: pointer;
+}
+/* widgets style copy wc-admin */
